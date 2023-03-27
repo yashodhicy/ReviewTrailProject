@@ -1,2 +1,2 @@
 # ReviewTrailProject
-Review the project in Microverse trail.
+this project is to review my own code from the trails.
